@@ -12,7 +12,7 @@ Timer bse_timer;
 
 
 int main() {
-    // Constants for APPS sensor voltage ranges
+    // Constants for APPS sensor voltage ranges and variables
     const float APPS0_MIN = 0.25f;
     const float APPS0_MAX = 2.25f;
     const float APPS1_MIN = 0.30f;
