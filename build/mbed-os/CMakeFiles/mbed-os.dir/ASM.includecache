@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Config/RTX_Config.h
+RTE_Components.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Config/RTE_Components.h
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_def.h
+RTE_Components.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/RTE_Components.h
+RTX_Config.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/RTX_Config.h
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Source/TOOLCHAIN_GCC/TARGET_RTOS_M4_M7/irq_cm4f.S
+rtx_def.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Source/TOOLCHAIN_GCC/TARGET_RTOS_M4_M7/rtx_def.h
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/RTE/include/RTE_Components.h
+mbed_rtx_conf.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/RTE/include/mbed_rtx_conf.h
+mbed_cmsis_conf.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/RTE/include/mbed_cmsis_conf.h
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/mbed_cmsis_conf.h
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/rtos/include/mbed_rtx_conf.h
+mbed_rtx.h
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/rtos/include/mbed_rtx.h
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/platform/source/TARGET_CORTEX_M/TOOLCHAIN_GCC/except.S
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L432xC/TOOLCHAIN_GCC_ARM/startup_stm32l432xx.S
+
+/Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/targets/TARGET_STM/mbed_rtx.h
+stdint.h
+-
+

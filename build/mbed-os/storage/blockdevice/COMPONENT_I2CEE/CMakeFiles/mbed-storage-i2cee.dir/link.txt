@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-i2cee.a "CMakeFiles/mbed-storage-i2cee.dir/source/I2CEEBlockDevice.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-i2cee.a

@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-securestore.a "CMakeFiles/mbed-storage-securestore.dir/source/SecureStore.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-securestore.a

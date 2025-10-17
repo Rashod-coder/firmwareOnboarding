@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-filesystemstore.a "CMakeFiles/mbed-storage-filesystemstore.dir/source/FileSystemStore.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-filesystemstore.a

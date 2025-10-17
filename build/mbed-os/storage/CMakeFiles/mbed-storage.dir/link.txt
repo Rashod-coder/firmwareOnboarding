@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage.a "CMakeFiles/mbed-storage.dir/platform/source/PlatformStorage.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage.a

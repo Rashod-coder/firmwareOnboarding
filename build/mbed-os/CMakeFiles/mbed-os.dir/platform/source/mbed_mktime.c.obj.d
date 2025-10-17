@@ -1,0 +1,37 @@
+mbed-os/CMakeFiles/mbed-os.dir/platform/source/mbed_mktime.c.obj: \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/platform/source/mbed_mktime.c \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/build/mbed-os/generated-headers/mbed-target-config.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/platform/include/platform/mbed_mktime.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/time.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_ansi.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/newlib.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_newlib_version.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/config.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/features.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/cdefs.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/_default_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/reent.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_ansi.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/lock.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/time.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/endian.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/_endian.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/select.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_sigset.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_timeval.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/timespec.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_timespec.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/sched.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_locale.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stdbool.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_intsup.h

@@ -1,0 +1,34 @@
+mbed-os/CMakeFiles/mbed-os.dir/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Library/cmsis_os1.c.obj: \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Library/cmsis_os1.c \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/build/mbed-os/generated-headers/mbed-target-config.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/string.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_ansi.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/newlib.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_newlib_version.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/config.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/ieeefp.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/features.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/reent.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_ansi.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/_default_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/lock.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/cdefs.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_locale.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/strings.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/string.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include1/cmsis_os.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/Include/cmsis_os2.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_intsup.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_stdint.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_os.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_def.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/RTE/include/RTE_Components.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/rtos/include/mbed_rtx_conf.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/targets/TARGET_STM/./mbed_rtx.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/./mbed_cmsis_conf.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Config/RTX_Config.h

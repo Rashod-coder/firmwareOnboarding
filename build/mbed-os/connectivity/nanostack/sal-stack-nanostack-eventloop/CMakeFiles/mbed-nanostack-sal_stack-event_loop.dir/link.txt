@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-nanostack-sal_stack-event_loop.a "CMakeFiles/mbed-nanostack-sal_stack-event_loop.dir/source/event.c.obj" "CMakeFiles/mbed-nanostack-sal_stack-event_loop.dir/source/ns_timeout.c.obj" "CMakeFiles/mbed-nanostack-sal_stack-event_loop.dir/source/ns_timer.c.obj" "CMakeFiles/mbed-nanostack-sal_stack-event_loop.dir/source/system_timer.c.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-nanostack-sal_stack-event_loop.a

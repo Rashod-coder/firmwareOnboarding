@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-direct-access-devicekey.a "CMakeFiles/mbed-storage-direct-access-devicekey.dir/source/DirectAccessDevicekey.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-direct-access-devicekey.a

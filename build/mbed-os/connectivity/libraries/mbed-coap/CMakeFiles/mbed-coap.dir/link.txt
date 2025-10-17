@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-coap.a "CMakeFiles/mbed-coap.dir/source/sn_coap_builder.c.obj" "CMakeFiles/mbed-coap.dir/source/sn_coap_header_check.c.obj" "CMakeFiles/mbed-coap.dir/source/sn_coap_parser.c.obj" "CMakeFiles/mbed-coap.dir/source/sn_coap_protocol.c.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-coap.a

@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-cy-external-wifi-fw.a "CMakeFiles/mbed-cy-external-wifi-fw.dir/cy_ext_wifi_fw_reserved_region_bd.cpp.obj" "CMakeFiles/mbed-cy-external-wifi-fw.dir/CyReservedRegionBlockDevice.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-cy-external-wifi-fw.a

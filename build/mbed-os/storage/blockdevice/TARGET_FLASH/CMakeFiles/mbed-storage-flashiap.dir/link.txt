@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-flashiap.a "CMakeFiles/mbed-storage-flashiap.dir/source/FlashIAPBlockDevice.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-flashiap.a

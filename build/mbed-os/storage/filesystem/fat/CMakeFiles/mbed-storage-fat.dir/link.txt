@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-fat.a "CMakeFiles/mbed-storage-fat.dir/source/FATFileSystem.cpp.obj" "CMakeFiles/mbed-storage-fat.dir/ChaN/ff.cpp.obj" "CMakeFiles/mbed-storage-fat.dir/ChaN/ffunicode.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-fat.a

@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-spif.a "CMakeFiles/mbed-storage-spif.dir/source/SPIFBlockDevice.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-spif.a

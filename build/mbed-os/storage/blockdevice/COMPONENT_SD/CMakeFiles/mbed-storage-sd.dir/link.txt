@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-sd.a "CMakeFiles/mbed-storage-sd.dir/source/SDBlockDevice.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-sd.a

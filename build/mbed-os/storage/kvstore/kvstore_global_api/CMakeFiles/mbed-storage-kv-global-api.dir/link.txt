@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-kv-global-api.a "CMakeFiles/mbed-storage-kv-global-api.dir/source/KVMap.cpp.obj" "CMakeFiles/mbed-storage-kv-global-api.dir/source/kvstore_global_api.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-kv-global-api.a

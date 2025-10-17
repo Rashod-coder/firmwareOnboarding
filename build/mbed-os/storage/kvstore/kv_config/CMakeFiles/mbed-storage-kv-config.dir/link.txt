@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-kv-config.a "CMakeFiles/mbed-storage-kv-config.dir/source/kv_config.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-kv-config.a

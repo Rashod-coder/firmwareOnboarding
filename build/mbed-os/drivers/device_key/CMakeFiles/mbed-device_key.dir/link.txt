@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-device_key.a "CMakeFiles/mbed-device_key.dir/source/DeviceKey.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-device_key.a

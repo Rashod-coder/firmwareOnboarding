@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-nanostack.a "CMakeFiles/mbed-nanostack.dir/source/Nanostack.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-nanostack.a

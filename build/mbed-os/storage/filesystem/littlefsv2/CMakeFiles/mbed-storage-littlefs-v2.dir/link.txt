@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-littlefs-v2.a "CMakeFiles/mbed-storage-littlefs-v2.dir/source/LittleFileSystem2.cpp.obj" "CMakeFiles/mbed-storage-littlefs-v2.dir/littlefs/lfs2.c.obj" "CMakeFiles/mbed-storage-littlefs-v2.dir/littlefs/lfs2_util.c.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-littlefs-v2.a

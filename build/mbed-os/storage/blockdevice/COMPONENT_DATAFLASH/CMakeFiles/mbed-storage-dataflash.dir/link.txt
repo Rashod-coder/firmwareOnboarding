@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-dataflash.a "CMakeFiles/mbed-storage-dataflash.dir/source/DataFlashBlockDevice.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-dataflash.a

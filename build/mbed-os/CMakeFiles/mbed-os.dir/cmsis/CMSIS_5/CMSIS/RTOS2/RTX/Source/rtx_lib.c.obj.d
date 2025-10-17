@@ -1,0 +1,23 @@
+mbed-os/CMakeFiles/mbed-os.dir/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Source/rtx_lib.c.obj: \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Source/rtx_lib.c \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/build/mbed-os/generated-headers/mbed-target-config.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/cmsis_compiler.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/stdint.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/machine/_default_types.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/features.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/_newlib_version.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_intsup.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/arm-none-eabi/include/sys/_stdint.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/cmsis_gcc.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_os.h \
+ /opt/homebrew/Cellar/arm-gcc-bin@10/10.3-2021.10_1/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/Include/cmsis_os2.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_def.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/RTE/include/RTE_Components.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/rtos/include/mbed_rtx_conf.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/targets/TARGET_STM/./mbed_rtx.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/device/./mbed_cmsis_conf.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Config/RTX_Config.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_evr.h \
+ /Users/rishitgupta/Downloads/MYMBEDAPP2/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/RTX/Include/rtx_os.h

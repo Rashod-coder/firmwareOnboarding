@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-storage-tdbstore.a "CMakeFiles/mbed-storage-tdbstore.dir/source/TDBStore.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-storage-tdbstore.a

@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-randlib.a "CMakeFiles/mbed-randlib.dir/source/randLIB.c.obj" "CMakeFiles/mbed-randlib.dir/source/arm_hal_random.c.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-randlib.a

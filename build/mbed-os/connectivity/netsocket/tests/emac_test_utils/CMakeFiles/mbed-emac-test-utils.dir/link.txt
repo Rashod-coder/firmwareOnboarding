@@ -1,0 +1,2 @@
+/opt/homebrew/bin/arm-none-eabi-ar qc libmbed-emac-test-utils.a "CMakeFiles/mbed-emac-test-utils.dir/emac_membuf.cpp.obj" "CMakeFiles/mbed-emac-test-utils.dir/emac_ctp.cpp.obj" "CMakeFiles/mbed-emac-test-utils.dir/emac_util.cpp.obj" "CMakeFiles/mbed-emac-test-utils.dir/EmacTestMemoryManager.cpp.obj" "CMakeFiles/mbed-emac-test-utils.dir/EmacTestNetworkStack.cpp.obj"
+/opt/homebrew/bin/arm-none-eabi-ranlib libmbed-emac-test-utils.a
