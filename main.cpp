@@ -99,7 +99,7 @@ int main() {
                 }
             }
 
-        // BSE Implasabuility
+        // BSE Implausibility
         if (brake_voltage < 0.0f || brake_voltage > 3.3f) {
             if (!bse_detected) {
                 bse_timer.start();
